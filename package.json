@@ -1,0 +1,33 @@
+{
+  "name": "so-jest-mockmodule-60987551",
+  "version": "1.0.0",
+  "description": "StackOverflow Answer to question .",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teneff/so-jest-mockmodule-60987551.git"
+  },
+  "keywords": [
+    "StackOverflow",
+    "Answer",
+    "Question",
+    "Jest"
+  ],
+  "author": "Stefan Teneff <st.teneff@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teneff/so-jest-mockmodule-60987551/issues"
+  },
+  "homepage": "https://github.com/Teneff/so-jest-mockmodule-60987551#readme",
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "jest": "^25.2.4"
+  },
+  "dependencies": {
+    "bull": "^3.13.0",
+    "prettier": "^2.0.2"
+  }
+}
